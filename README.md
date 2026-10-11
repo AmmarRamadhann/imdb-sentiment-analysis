@@ -1,3 +1,4 @@
+
 # IMDB Sentiment Analysis
 
 ## Deskripsi
@@ -35,3 +36,14 @@ Dataset yang digunakan berasal dari Kaggle.
 ## Catatan
 
 Dataset tidak diunggah langsung ke GitHub karena ukuran file terlalu besar.
+
+
+## Visualisasi Hasil
+
+### Distribusi Sentimen
+
+![Distribusi Sentimen IMDB](grafik_distribusi_sentimen.png)
+
+### Confusion Matrix
+
+![Confusion Matrix IMDB](grafik_confusion_matrix.png)
