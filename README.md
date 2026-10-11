@@ -122,3 +122,8 @@ imdb-sentiment-analysis/
 ## Pengembang
 
 Proyek Machine Learning — Analisis Sentimen Ulasan Film IMDB.
+
+
+### Screenshot Hasil Evaluasi
+
+![Screenshot hasil evaluasi model](hasil_evaluasi.png)
