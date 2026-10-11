@@ -8,8 +8,10 @@ Proyek Machine Learning untuk mengklasifikasikan sentimen ulasan film IMDB menja
 
 Dataset yang digunakan berasal dari Kaggle.
 
-* **Train Dataset:** Link Kaggle akan ditambahkan.
-* **Test Dataset:** Link Kaggle akan ditambahkan.
+**Nama Dataset:** IMDB 50K Movie Reviews (TEST your BERT)
+
+**Link Dataset Kaggle:** [Klik di sini untuk membuka dataset](https://www.kaggle.com/datasets/atulanandjha/imdb-50k-movie-reviews-test-your-bert/data)
+
 
 ## File Dataset
 
